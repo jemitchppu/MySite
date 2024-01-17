@@ -1,0 +1,61 @@
+.form {
+    width: 20%;
+    text-align: center;
+}
+
+.signUpTop {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: rgb(11, 86, 172);
+    font-weight: bold;
+}
+
+.form1Top {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 150px;
+    margin: 1%;
+    padding: .5em;
+    text-align: left;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.form1Bottom {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 330px;
+    margin: 1%;
+    padding: .5em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.submit {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(11, 86, 172);
+    width: 345px;
+    color: White;
+    margin: 1%;
+    padding: .5em;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.signUpBottom {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgb(170, 84, 3);
+    font-style: italic;
+}
+
+.night {
+    transition: 0.5s ease-in-out;
+}
+
+.night:hover {
+    filter: brightness(200%);
+}
